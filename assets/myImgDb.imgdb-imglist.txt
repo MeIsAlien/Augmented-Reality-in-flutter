@@ -1,0 +1,1 @@
+earth_augmented_image.jpg|augmented_images//earth_augmented_image.jpg
